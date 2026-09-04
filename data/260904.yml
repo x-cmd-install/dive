@@ -7,7 +7,7 @@ about:
   head: d6c6919
   archived: false
   latestVersion: v0.13.1
-  collectedAt: 2026-09-04T19:20:58Z
+  collectedAt: 2026-09-04T21:13:29Z
 timeline:
   created: 2018-05-13
   lastCommit: 2025-05-16
@@ -82,6 +82,44 @@ total:
   openIssue: 170
   commit: 508
 ---
+path: /home/runner/.x-repo/github.com/wagoodman/dive
+collectedAt: 2026-09-04T21:13:30Z
+loc:
+  Go:
+    code: 9142
+    comments: 614
+    blanks: 1759
+    files: 110
+  Yaml:
+    code: 337
+    comments: 28
+    blanks: 60
+    files: 6
+  Makefile:
+    code: 27
+    comments: 7
+    blanks: 13
+    files: 1
+  Dockerfile:
+    code: 21
+    comments: 2
+    blanks: 3
+    files: 3
+  Markdown:
+    code: 0
+    comments: 199
+    blanks: 84
+    files: 6
+  Text:
+    code: 0
+    comments: 1004
+    blanks: 14
+    files: 14
+total:
+  code: 9608
+  comments: 1867
+  blanks: 1941
+  files: 140
 ---
 date: "2026-08-24"
 repo:
