@@ -5,15 +5,15 @@ about:
   head: d6c6919
   archived: false
   latestVersion: "v0.13.1"
-  collectedAt: 2026-09-07T05:20:04Z
+  collectedAt: 2026-09-07T19:06:29Z
 timeline:
   created: 2018-05-13
   lastCommit: 2025-05-16
   lastRelease: 2025-03-29
 popularity:
-  star: 54535
+  star: 54539
   watcher: 371
-  fork: 1997
+  fork: 1998
   release: 28
   contributor: 78
   pullRequest: 325
@@ -81,7 +81,7 @@ total:
   commit: 508
 ---
 path: /home/runner/.x-repo/github.com/wagoodman/dive
-collectedAt: 2026-09-07T05:20:04Z
+collectedAt: 2026-09-07T19:06:32Z
 loc:
   Go:
     code: 9142
@@ -237,7 +237,7 @@ checks:
       - 'Warn: 0 commits out of 28 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:20:05+00:00
+  collectedAt: 2026-09-07T19:06:33+00:00
   platform:
     darwin/arm64:
       name:  dive_0.13.1_darwin_arm64.tar.gz
