@@ -5,13 +5,13 @@ about:
   head: d6c6919
   archived: false
   latestVersion: "v0.13.1"
-  collectedAt: 2026-09-08T02:32:56Z
+  collectedAt: 2026-09-08T05:20:17Z
 timeline:
   created: 2018-05-13
   lastCommit: 2025-05-16
   lastRelease: 2025-03-29
 popularity:
-  star: 54539
+  star: 54538
   watcher: 371
   fork: 1998
   release: 28
@@ -81,7 +81,7 @@ total:
   commit: 508
 ---
 path: /home/runner/.x-repo/github.com/wagoodman/dive
-collectedAt: 2026-09-08T02:32:57Z
+collectedAt: 2026-09-08T05:20:19Z
 loc:
   Go:
     code: 9142
