@@ -7,7 +7,7 @@ A tool for exploring each layer in a docker image
 - **Latest release**: `v0.13.1` (2025-03-29)
 - **Last commit**: 2025-05-16
 - **License**: MIT
-- **Stars**: 54539 · **Forks**: 1998 · **Open issues**: 376 · **Contributors**: 78
+- **Stars**: 54544 · **Forks**: 1998 · **Open issues**: 376 · **Contributors**: 78
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/dive> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:49:56Z._
+_Last regenerated: 2026-09-09T05:24:26Z._
