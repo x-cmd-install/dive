@@ -47,7 +47,7 @@ x install dive
 
 ## 流行度
 
-- **Star**: 54,559 · **Fork**: 1,998 · **开放 issue**: 376 · **贡献者**: 78
+- **Star**: 54,558 · **Fork**: 1,998 · **开放 issue**: 376 · **贡献者**: 78
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install dive
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 5 | 0 | 1 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 8 | 0 | 1 | 0 |
-| last180d | 2026-03-17 | 0 | 0 | 12 | 0 | 3 | 0 |
-| 360d | 2025-09-18 | 0 | 0 | 35 | 2 | 13 | 0 |
-| last720d | 2024-09-23 | 2 | 21 | 42 | 14 | 30 | 25 |
+| 30d | 2026-08-15 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 5 | 0 | 1 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 8 | 0 | 1 | 0 |
+| last180d | 2026-03-18 | 0 | 0 | 12 | 0 | 3 | 0 |
+| 360d | 2025-09-19 | 0 | 0 | 35 | 2 | 13 | 0 |
+| last720d | 2024-09-24 | 2 | 21 | 42 | 14 | 30 | 25 |
 
 ## Release 资产
 
@@ -83,19 +83,6 @@ x install dive
 | [dive_0.13.1_windows_amd64.zip](https://github.com/wagoodman/dive/releases/download/v0.13.1/dive_0.13.1_windows_amd64.zip) | 3.9 MiB | `native/win/x64` |
 | [dive_0.13.1_windows_arm64.zip](https://github.com/wagoodman/dive/releases/download/v0.13.1/dive_0.13.1_windows_arm64.zip) | 3.6 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/dive) 上共有 **40** 个发行版报告此项目。**30** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.13.1` | ✅ latest |
-| Homebrew | `0.13.1` | ✅ latest |
-| Nix unstable | `0.13.1` | ✅ latest |
-| Void | `0.13.1` | ✅ latest |
-| Alpine edge | `0.13.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.13.1` | ✅ latest |
-
 ## 改进这些数据
 
 dive 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `dive` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -105,4 +92,4 @@ dive 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:28:05Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:35:09Z._
