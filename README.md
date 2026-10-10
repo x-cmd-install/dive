@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 54,631 · **Forks**: 2,006 · **Open issues**: 377 · **Contributors**: 78
+- **Stars**: 54,631 · **Forks**: 2,007 · **Open issues**: 377 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 164 · **Open PRs**: 46 · **Closed issues**: 206 · **Open issues**: 171 · **Commits**: 508
+- **Releases**: 28 · **Merged PRs**: 164 · **Open PRs**: 47 · **Closed issues**: 206 · **Open issues**: 171 · **Commits**: 508
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-08-10 | 0 | 0 | 6 | 0 | 2 | 0 |
-| 90d | 2026-07-11 | 0 | 0 | 8 | 0 | 2 | 0 |
-| last180d | 2026-04-12 | 0 | 0 | 13 | 0 | 3 | 0 |
-| 360d | 2025-10-14 | 0 | 0 | 32 | 2 | 11 | 0 |
-| last720d | 2024-10-19 | 2 | 21 | 44 | 14 | 31 | 25 |
+| 30d | 2026-09-10 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-08-11 | 0 | 0 | 7 | 0 | 2 | 0 |
+| 90d | 2026-07-12 | 0 | 0 | 9 | 0 | 2 | 0 |
+| last180d | 2026-04-13 | 0 | 0 | 14 | 0 | 3 | 0 |
+| 360d | 2025-10-15 | 0 | 0 | 33 | 2 | 11 | 0 |
+| last720d | 2024-10-20 | 2 | 21 | 45 | 14 | 31 | 25 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for dive lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:38:43Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:19:24Z._
