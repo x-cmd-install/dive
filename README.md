@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 54,671 · **Forks**: 2,008 · **Open issues**: 378 · **Contributors**: 78
+- **Stars**: 54,673 · **Forks**: 2,008 · **Open issues**: 378 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 164 · **Open PRs**: 45 · **Closed issues**: 206 · **Open issues**: 172 · **Commits**: 508
+- **Releases**: 28 · **Merged PRs**: 164 · **Open PRs**: 45 · **Closed issues**: 207 · **Open issues**: 171 · **Commits**: 508
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-29 | 0 | 0 | 5 | 0 | 2 | 0 |
-| 90d | 2026-07-30 | 0 | 0 | 7 | 0 | 3 | 0 |
-| last180d | 2026-05-01 | 0 | 0 | 14 | 0 | 3 | 0 |
-| 360d | 2025-11-02 | 0 | 0 | 31 | 2 | 12 | 0 |
-| last720d | 2024-11-07 | 2 | 21 | 43 | 13 | 31 | 25 |
+| 30d | 2026-09-29 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-08-30 | 0 | 0 | 5 | 0 | 2 | 0 |
+| 90d | 2026-07-31 | 0 | 0 | 7 | 0 | 3 | 0 |
+| last180d | 2026-05-02 | 0 | 0 | 14 | 0 | 3 | 0 |
+| 360d | 2025-11-03 | 0 | 0 | 30 | 3 | 11 | 0 |
+| last720d | 2024-11-08 | 2 | 21 | 43 | 14 | 30 | 25 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **40** distros on [repology.org](https://repology.org/project/dive). **30** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **40** distros on [repology.org](https://repology.org/project/dive). **31** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for dive lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:11:05Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:19:19Z._
