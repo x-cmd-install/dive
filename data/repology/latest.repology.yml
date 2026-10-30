@@ -1,25 +1,12 @@
-- repo: parabola
-  subrepo: extra
-  srcname: dive
+- repo: wakemeops
+  subrepo: secops
   binname: dive
   visiblename: dive
-  version: 0.13.1
-  origversion: 0.13.1-1
-  status: newest
-  summary: A tool for exploring layers in a docker image
-  licenses:
-    - MIT
-- repo: openpkg_current
-  srcname: dive
-  visiblename: dive
-  version: 0.13.1.20250330
-  origversion: null
-  status: untrusted
-  summary: Interactive Docker Image Explorer
-  licenses:
-    - MIT
-  categories:
-    - Filesystem
+  version: 0.12.0
+  origversion: 0.12.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alpine_3_24
   subrepo: community
   srcname: dive
@@ -39,7 +26,7 @@
   binname: dive
   visiblename: dive
   version: 0.13.1
-  origversion: 0.13.1-r7
+  origversion: 0.13.1-r8
   status: newest
   summary: Tool for exploring each layer in a docker image
   maintainers:
@@ -187,22 +174,6 @@
     - yuri@freebsd.org
   categories:
     - misc
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: dive
-  binnames:
-    - dive
-    - dive-debuginfo
-    - dive-debugsource
-  visiblename: dive
-  version: 0.13.1
-  origversion: 0.13.1-1.7
-  status: newest
-  summary: Tool for exploring each layer in a docker image
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: gentoo
   srcname: app-containers/dive
   visiblename: app-containers/dive
@@ -369,6 +340,44 @@
     - xiaoyin_c@qq.com
   licenses:
     - MIT
+- repo: openpkg_current
+  srcname: dive
+  visiblename: dive
+  version: 0.13.1.20250330
+  origversion: null
+  status: untrusted
+  summary: Interactive Docker Image Explorer
+  licenses:
+    - MIT
+  categories:
+    - Filesystem
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: dive
+  binnames:
+    - dive
+    - dive-debuginfo
+    - dive-debugsource
+  visiblename: dive
+  version: 0.13.1
+  origversion: 0.13.1-1.7
+  status: newest
+  summary: Tool for exploring each layer in a docker image
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: dive
+  binname: dive
+  visiblename: dive
+  version: 0.13.1
+  origversion: 0.13.1-1
+  status: newest
+  summary: A tool for exploring layers in a docker image
+  licenses:
+    - MIT
 - repo: scoop
   subrepo: main
   binname: dive
@@ -428,15 +437,6 @@
   visiblename: dive
   version: 0.13.0
   origversion: 0.13.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: secops
-  binname: dive
-  visiblename: dive
-  version: 0.12.0
-  origversion: 0.12.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
