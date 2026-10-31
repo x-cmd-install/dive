@@ -14,15 +14,15 @@ x install dive
 
 ## Code insight
 
-Total: **9,527** lines of code across **126** files in the top 5 languages.
+Total: **25,200** lines of code across **169** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 9,142 | 614 | 1,759 | 110 |
+| Json | 12,508 | 0 | 0 | 34 |
+| Go | 12,307 | 977 | 2,050 | 125 |
 | Yaml | 337 | 28 | 60 | 6 |
 | Makefile | 27 | 7 | 13 | 1 |
 | Dockerfile | 21 | 2 | 3 | 3 |
-| Markdown | 0 | 199 | 84 | 6 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.13.1` (2025-03-29)
-- **Last commit**: 2025-05-16
+- **Last commit**: 2026-10-30
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 54,678 · **Forks**: 2,008 · **Open issues**: 378 · **Contributors**: 78
+- **Stars**: 54,682 · **Forks**: 2,008 · **Open issues**: 378 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 164 · **Open PRs**: 46 · **Closed issues**: 207 · **Open issues**: 171 · **Commits**: 508
+- **Releases**: 28 · **Merged PRs**: 165 · **Open PRs**: 27 · **Closed issues**: 207 · **Open issues**: 171 · **Commits**: 509
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-08-31 | 0 | 0 | 6 | 0 | 2 | 0 |
-| 90d | 2026-08-01 | 0 | 0 | 8 | 0 | 3 | 0 |
-| last180d | 2026-05-03 | 0 | 0 | 15 | 0 | 3 | 0 |
-| 360d | 2025-11-04 | 0 | 0 | 31 | 3 | 11 | 0 |
-| last720d | 2024-11-09 | 2 | 21 | 44 | 14 | 30 | 25 |
+| 30d | 2026-10-01 | 0 | 1 | 1 | 0 | 1 | 1 |
+| last60d | 2026-09-01 | 0 | 1 | 2 | 0 | 2 | 1 |
+| 90d | 2026-08-02 | 0 | 1 | 3 | 0 | 3 | 1 |
+| last180d | 2026-05-04 | 0 | 1 | 8 | 0 | 3 | 1 |
+| 360d | 2025-11-05 | 0 | 1 | 22 | 3 | 11 | 1 |
+| last720d | 2024-11-10 | 2 | 22 | 26 | 14 | 30 | 26 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for dive lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:21:37Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:12:38Z._
