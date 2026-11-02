@@ -1,12 +1,58 @@
-- repo: wakemeops
-  subrepo: secops
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: dive
   binname: dive
   visiblename: dive
+  version: 0.11.0
+  origversion: 0.11.0-1
+  status: outdated
+  summary: A tool for exploring layers in a docker image
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: dive
+  binname: dive
+  visiblename: dive
+  version: 0.11.0
+  origversion: 0.11.0-1
+  status: outdated
+  summary: A tool for exploring layers in a docker image
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: dive
+  binname: dive
+  visiblename: dive
+  version: 0.13.1
+  origversion: 0.13.1-1
+  status: newest
+  summary: A tool for exploring layers in a docker image
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: dive
+  visiblename: dive
   version: 0.12.0
-  origversion: 0.12.0-1~ops2deb
-  status: legacy
+  origversion: null
+  status: outdated
+  summary: A tool for exploring each layer in a docker image
   maintainers:
-    - ops2deb@upciti.com
+    - sandro.jaeckel@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: dive
+  visiblename: dive
+  version: 0.12.0
+  origversion: null
+  status: outdated
+  summary: Tool for exploring each layer in a docker image
+  maintainers:
+    - sandro.jaeckel@gmail.com
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: dive
@@ -222,6 +268,15 @@
     - MIT
   categories:
     - app-containers
+- repo: wakemeops
+  subrepo: secops
+  binname: dive
+  visiblename: dive
+  version: 0.13.1
+  origversion: 0.13.1-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
 - repo: macports
   srcname: devel/dive
   binname: dive
@@ -237,61 +292,6 @@
     - MIT
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: dive
-  binname: dive
-  visiblename: dive
-  version: 0.13.1
-  origversion: 0.13.1-1
-  status: newest
-  summary: A tool for exploring layers in a docker image
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: dive
-  binname: dive
-  visiblename: dive
-  version: 0.13.1
-  origversion: 0.13.1-1
-  status: newest
-  summary: A tool for exploring layers in a docker image
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: dive
-  binname: dive
-  visiblename: dive
-  version: 0.13.1
-  origversion: 0.13.1-1
-  status: newest
-  summary: A tool for exploring layers in a docker image
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: dive
-  visiblename: dive
-  version: 0.12.0
-  origversion: null
-  status: outdated
-  summary: A tool for exploring each layer in a docker image
-  maintainers:
-    - sandro.jaeckel@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: dive
-  visiblename: dive
-  version: 0.12.0
-  origversion: null
-  status: outdated
-  summary: Tool for exploring each layer in a docker image
-  maintainers:
-    - sandro.jaeckel@gmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_25_05
   srcname: dive
   visiblename: dive
@@ -426,17 +426,17 @@
   subrepo: secops
   binname: dive
   visiblename: dive
-  version: 0.13.1
-  origversion: 0.13.1-1~ops2deb
-  status: newest
+  version: 0.13.0
+  origversion: 0.13.0-1~ops2deb
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
   subrepo: secops
   binname: dive
   visiblename: dive
-  version: 0.13.0
-  origversion: 0.13.0-1~ops2deb
+  version: 0.12.0
+  origversion: 0.12.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
