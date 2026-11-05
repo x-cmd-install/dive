@@ -30,9 +30,9 @@ Overall score: **3.4 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (1/10) — 1 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 54,698 · **Forks**: 2,011 · **Open issues**: 378 · **Contributors**: 78
+- **Stars**: 54,696 · **Forks**: 2,012 · **Open issues**: 378 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 165 · **Open PRs**: 31 · **Closed issues**: 207 · **Open issues**: 171 · **Commits**: 509
+- **Releases**: 28 · **Merged PRs**: 165 · **Open PRs**: 32 · **Closed issues**: 207 · **Open issues**: 171 · **Commits**: 509
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 1 | 6 | 0 | 1 | 1 |
-| last60d | 2026-09-05 | 0 | 1 | 7 | 0 | 2 | 1 |
-| 90d | 2026-08-06 | 0 | 1 | 8 | 0 | 3 | 1 |
-| last180d | 2026-05-08 | 0 | 1 | 13 | 0 | 3 | 1 |
-| 360d | 2025-11-09 | 0 | 1 | 26 | 3 | 11 | 1 |
-| last720d | 2024-11-14 | 2 | 22 | 30 | 14 | 30 | 26 |
+| 30d | 2026-10-06 | 0 | 1 | 7 | 0 | 1 | 1 |
+| last60d | 2026-09-06 | 0 | 1 | 8 | 0 | 2 | 1 |
+| 90d | 2026-08-07 | 0 | 1 | 9 | 0 | 3 | 1 |
+| last180d | 2026-05-09 | 0 | 1 | 14 | 0 | 3 | 1 |
+| 360d | 2025-11-10 | 0 | 1 | 27 | 3 | 11 | 1 |
+| last720d | 2024-11-15 | 2 | 22 | 31 | 14 | 30 | 26 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for dive lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:56:44Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:20:57Z._
