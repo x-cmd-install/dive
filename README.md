@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 54,700 · **Forks**: 2,011 · **Open issues**: 378 · **Contributors**: 78
+- **Stars**: 54,705 · **Forks**: 2,012 · **Open issues**: 378 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 165 · **Open PRs**: 32 · **Closed issues**: 207 · **Open issues**: 171 · **Commits**: 509
+- **Releases**: 28 · **Merged PRs**: 165 · **Open PRs**: 33 · **Closed issues**: 207 · **Open issues**: 171 · **Commits**: 509
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 1 | 7 | 0 | 1 | 1 |
-| last60d | 2026-09-07 | 0 | 1 | 8 | 0 | 2 | 1 |
-| 90d | 2026-08-08 | 0 | 1 | 9 | 0 | 3 | 1 |
-| last180d | 2026-05-10 | 0 | 1 | 14 | 0 | 3 | 1 |
-| 360d | 2025-11-11 | 0 | 1 | 27 | 3 | 11 | 1 |
-| last720d | 2024-11-16 | 2 | 22 | 31 | 14 | 30 | 26 |
+| 30d | 2026-10-08 | 0 | 1 | 8 | 0 | 1 | 1 |
+| last60d | 2026-09-08 | 0 | 1 | 9 | 0 | 2 | 1 |
+| 90d | 2026-08-09 | 0 | 1 | 10 | 0 | 3 | 1 |
+| last180d | 2026-05-11 | 0 | 1 | 15 | 0 | 3 | 1 |
+| 360d | 2025-11-12 | 0 | 1 | 28 | 2 | 10 | 1 |
+| last720d | 2024-11-17 | 2 | 22 | 32 | 14 | 30 | 26 |
 
 ## Release assets
 
@@ -85,12 +85,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **40** distros on [repology.org](https://repology.org/project/dive). **29** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/dive). **31** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.13.1` | ✅ latest |
-| Homebrew | `0.13.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.13.1` | ✅ latest |
 | Void | `0.13.1` | ✅ latest |
 | Alpine edge | `0.13.1` | ✅ latest |
@@ -105,4 +105,4 @@ Install metadata for dive lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:28:42Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:38:36Z._
