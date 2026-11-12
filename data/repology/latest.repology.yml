@@ -1,3 +1,108 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: dive
+  binname: dive
+  visiblename: dive
+  version: 0.13.1
+  origversion: 0.13.1-1
+  status: newest
+  summary: A tool for exploring layers in a docker image
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: dive
+  binname: dive
+  visiblename: dive
+  version: 0.13.1
+  origversion: 0.13.1-1
+  status: newest
+  summary: A tool for exploring layers in a docker image
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: secops
+  binname: dive
+  visiblename: dive
+  version: 0.13.0
+  origversion: 0.13.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: secops
+  binname: dive
+  visiblename: dive
+  version: 0.12.0
+  origversion: 0.12.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: secops
+  binname: dive
+  visiblename: dive
+  version: 0.11.0
+  origversion: 0.11.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: scoop
+  subrepo: main
+  binname: dive
+  visiblename: dive
+  version: 0.13.1
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: stalix
+  srcname: bin/dive
+  binname: bin/dive
+  visiblename: bin/dive
+  version: 0.13.1
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/dive
+  binname: bin/dive
+  visiblename: bin/dive
+  version: 0.13.1
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: dive
+  binname: dive
+  visiblename: dive
+  version: 0.13.1
+  origversion: 0.13.1_2
+  status: newest
+  summary: Container image exploration tool
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - MIT
+- repo: aur
+  srcname: dive-git
+  binname: dive-git
+  visiblename: dive-git
+  version: 0.10.0.r2.gc7d121b
+  origversion: 0.10.0.r2.gc7d121b-1
+  status: rolling
+  summary: A tool for exploring each layer in a docker image
+  maintainers:
+    - m3thodic@aur
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: dive
@@ -24,6 +129,15 @@
     - kommander@laposte.net
   licenses:
     - MIT
+- repo: wakemeops
+  subrepo: secops
+  binname: dive
+  visiblename: dive
+  version: 0.13.1
+  origversion: 0.13.1-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alt_p11
   srcname: dive
   binnames:
@@ -40,13 +154,6 @@
     - MIT
   categories:
     - Development/Tools
-- repo: homebrew
-  srcname: dive
-  visiblename: dive
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Tool for exploring each layer in a docker image
 - repo: altsisyphus
   srcname: dive
   binnames:
@@ -84,18 +191,6 @@
   origversion: 0.13.1-1
   status: newest
   summary: A tool for exploring layers in a docker image
-  licenses:
-    - MIT
-- repo: aur
-  srcname: dive-git
-  binname: dive-git
-  visiblename: dive-git
-  version: 0.10.0.r2.gc7d121b
-  origversion: 0.10.0.r2.gc7d121b-1
-  status: rolling
-  summary: A tool for exploring each layer in a docker image
-  maintainers:
-    - m3thodic@aur
   licenses:
     - MIT
 - repo: chimera
@@ -165,7 +260,7 @@
   binname: dive
   visiblename: misc/dive
   version: 0.13.1
-  origversion: 0.13.1_14
+  origversion: 0.13.1_15
   status: newest
   summary: Tool for exploring each layer in a docker image
   maintainers:
@@ -200,6 +295,13 @@
   origversion: null
   status: newest
   summary: Tool for exploring each layer in a docker image
+- repo: homebrew
+  srcname: dive
+  visiblename: dive
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Tool for exploring each layer in a docker image
 - repo: liguros_develop
   srcname: app-containers/dive
   visiblename: app-containers/dive
@@ -229,28 +331,6 @@
   categories:
     - devel
 - repo: manjaro_stable
-  subrepo: extra
-  srcname: dive
-  binname: dive
-  visiblename: dive
-  version: 0.13.1
-  origversion: 0.13.1-1
-  status: newest
-  summary: A tool for exploring layers in a docker image
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: dive
-  binname: dive
-  visiblename: dive
-  version: 0.13.1
-  origversion: 0.13.1-1
-  status: newest
-  summary: A tool for exploring layers in a docker image
-  licenses:
-    - MIT
-- repo: manjaro_unstable
   subrepo: extra
   srcname: dive
   binname: dive
@@ -358,83 +438,3 @@
   summary: A tool for exploring layers in a docker image
   licenses:
     - MIT
-- repo: scoop
-  subrepo: main
-  binname: dive
-  visiblename: dive
-  version: 0.13.1
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
-- repo: stalix
-  srcname: bin/dive
-  binname: bin/dive
-  visiblename: bin/dive
-  version: 0.13.1
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: stalix_dev
-  srcname: bin/dive
-  binname: bin/dive
-  visiblename: bin/dive
-  version: 0.13.1
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: dive
-  binname: dive
-  visiblename: dive
-  version: 0.13.1
-  origversion: 0.13.1_2
-  status: newest
-  summary: Container image exploration tool
-  maintainers:
-    - orphan@voidlinux.org
-  licenses:
-    - MIT
-- repo: wakemeops
-  subrepo: secops
-  binname: dive
-  visiblename: dive
-  version: 0.13.1
-  origversion: 0.13.1-1~ops2deb
-  status: newest
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: secops
-  binname: dive
-  visiblename: dive
-  version: 0.13.0
-  origversion: 0.13.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: secops
-  binname: dive
-  visiblename: dive
-  version: 0.12.0
-  origversion: 0.12.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: secops
-  binname: dive
-  visiblename: dive
-  version: 0.11.0
-  origversion: 0.11.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
